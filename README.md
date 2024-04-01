@@ -1,3 +1,10 @@
+![Screenshot (25601)](https://github.com/harshrajbind2024/counter-app/assets/121737517/7883ca34-dca9-400b-a29a-add69213121d)
+
+
+
+
+
+
 # React & Tailwind CSS Starter Pack
 
 This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
